@@ -1,0 +1,26 @@
+# Deep Learning Core
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Segmentation Architectures & Pre-trained Backbones
+segmentation-models-pytorch>=0.3.3
+
+# Data Handling & Math
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Computer Vision & Image Augmentation
+opencv-python>=4.7.0
+albumentations>=1.3.0
+pillow>=9.5.0
+scikit-image>=0.20.0
+
+# Visualization, Progress Bars & Configs
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+pyyaml>=6.0
+
+# Package self-installation reference
+-e .
